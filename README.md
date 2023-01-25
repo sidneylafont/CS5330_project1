@@ -1,5 +1,5 @@
 1. I only have 1 external link, which contains a video that I saved using my program where I use every special effect I implemented: https://drive.google.com/drive/folders/1C2QmRAXzIzA_LSHPyUBoM-mn2BXIjyxk?usp=sharing
 2. I use MacOS and VSCode for my IDE
-3. I have 2 sperate folders, one for the imgDisplay progam and the other for the vidDisplay program. To run my executables start by entering the folder for the program you want to use in the terminal, then running 'make' to compile the code, then finally './run' (I name the executable run for both programs)
+3. I have 2 sperate folders, one for the imgDisplay progam and the other for the vidDisplay program. To run my executables start by entering the folder for the program you want to use in the terminal, then running 'make' to compile the code, then finally './run' (I named the executable 'run' for both programs)
 4. To use the BRG to HSV conversion filter type 'v' when running either the imgDisplay or vidDisplay progam. To apply a filter when running the imgDisplay program type the same letter you would when running vidDisplay and to save an image type 's'. To record a video in the vidDisplay program type 'r' to start and again to end (or just quit to end) the recording when running the program.
 5. I am not using any time travel days
