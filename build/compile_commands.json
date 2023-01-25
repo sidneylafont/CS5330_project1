@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/Sid/Desktop/School/Data-Science/CS5330/HW1/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.4_2/include/opencv4 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -std=gnu++11 -o CMakeFiles/run.dir/vidDisplay.cpp.o -c /Users/Sid/Desktop/School/Data-Science/CS5330/HW1/vidDisplay/vidDisplay.cpp",
+  "file": "/Users/Sid/Desktop/School/Data-Science/CS5330/HW1/vidDisplay/vidDisplay.cpp"
+},
+{
+  "directory": "/Users/Sid/Desktop/School/Data-Science/CS5330/HW1/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/Cellar/opencv/4.5.4_2/include/opencv4 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -std=gnu++11 -o CMakeFiles/run.dir/filter.cpp.o -c /Users/Sid/Desktop/School/Data-Science/CS5330/HW1/vidDisplay/filter.cpp",
+  "file": "/Users/Sid/Desktop/School/Data-Science/CS5330/HW1/vidDisplay/filter.cpp"
+}
+]
